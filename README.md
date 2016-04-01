@@ -1,5 +1,41 @@
 ## Introduction
 
+This assignment contains 4 source files (plot1.R, plot2.R, plot3.R, and plot4.R).  In addition the assignment contains 4 png files (plot1.png, plot2.png, plot3.png, and plot4.png) all located at the top level of the repo.
+
+## Running Instructions
+
+Each plot#.R file expects to run in the *same* directory as the household_power_consumption.txt.  The files can be run simply by loading R and then typing source("plot1.R") at which point the code will automatically be run and the output automatically be generated.
+
+The png file will be output in the current workign directory.
+
+## Output
+
+Each source file produces the corresponding graph reproduced below:
+
+### Plot 1
+
+
+![plot of plot1](plot1.png) 
+
+
+### Plot 2
+
+![plot of plot2](plot2.png) 
+
+
+### Plot 3
+
+![plot of plot3](plot3.png) 
+
+
+### Plot 4
+
+![plot of plot4](plot4.png) 
+
+
+
+## Assignment
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
